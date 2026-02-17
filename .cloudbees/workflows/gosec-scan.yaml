@@ -22,4 +22,3 @@ jobs:
 
       - name: Scan with Gosec
         uses: cloudbees-io/gosec-plugin@v2
-        
